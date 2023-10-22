@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "BhgzCjj3MyYOcfabPzWlKZ9rCqbFADZ0S+9onAfdsISc5lrMTIFR+Px0mB9VVYu3wjrne4Hwra3IwpBLR/AM3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nicholas\\OneDrive\\University\\2023\\Semester 2\\CAB401\\A2\\DigitalMusicAnalysis\\DigitalMusicAnalysis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nicholas\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Nicholas\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\Nicholas\\.nuget\\packages\\naudio\\1.10.0\\naudio.1.10.0.nupkg.sha512",
+    "C:\\Users\\Nicholas\\.nuget\\packages\\system.resources.extensions\\4.7.0\\system.resources.extensions.4.7.0.nupkg.sha512",
+    "C:\\Users\\Nicholas\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\Nicholas\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\Nicholas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Nicholas\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Nicholas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Nicholas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
